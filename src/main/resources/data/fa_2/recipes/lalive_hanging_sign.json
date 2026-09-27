@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hanging_sign",
+  "pattern": [
+    "b b",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stripped_oak_log"
+    },
+    "b": {
+      "item": "minecraft:chain"
+    }
+  },
+
+  "result": {
+    "item": "fa_2:lalive_hanging_sign",
+    "count": 6
+  },
+  "show_notification": true
+}
